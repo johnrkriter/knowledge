@@ -10,3 +10,8 @@ This process uses the path of leveraging UUP dumps. These can be found in the [U
 For Windows 11, you will need to grab the arm64
 At the time of wriing, the latest is from [ Latest Beta Channel build ](https://uupdump.net/fetchupd.php?arch=arm64&ring=wis&build=19042.330)
 
+## Configuring UTM for Windows 11
+
+## Installing Windows 11 and first boot
+During the installation process, there will be 2 places where the installation can get hung up.
+*Note: Be sure you have selected the virtio-net-pci network adapter during VM creation*
